@@ -4,9 +4,7 @@ I’m a **third-year Computer Engineering student** driven by a passion for buil
 
 With a strong foundation in computer science and hands-on project experience, I thrive on solving problems through code. I’m always eager to learn, collaborate, and explore new technologies. Every project is an opportunity to grow, push boundaries, and contribute to innovative, user-centric digital experiences.
 
----
 
-## 🛠️ Tech Stack & Skills
 ## 🛠️ Tech Stack & Skills
 
 <table>
@@ -56,8 +54,15 @@ With a strong foundation in computer science and hands-on project experience, I 
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" alt="Blender" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" alt="Canva" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OpenGL_logo.svg" width="40" alt="OpenGL" />
+    </td>
+  </tr>
+</table>
 
+---
 
 ## 📫 Let's Connect
 
