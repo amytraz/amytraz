@@ -63,10 +63,9 @@ With a strong foundation in computer science and hands-on project experience, I 
 ---
 
 ## 📫 Let's Connect
-
-- 📸 Instagram: [@amytraz](https://www.instagram.com/amytraz)  
-- 💼 LinkedIn: [amitrajthakur](https://www.linkedin.com/in/amitrajthakur)
-
+🌐 Portfolio: https://amitthakur.com.np  
+📸 Instagram: https://www.instagram.com/amytraz  
+💼 LinkedIn: https://www.linkedin.com/in/amitrajthakur
 ---
 
 Thanks for visiting! 😊 Feel free to explore my repositories or connect with me anytime.
