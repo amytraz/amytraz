@@ -50,63 +50,14 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap" />
-
-<br/><br/>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,firebase" />
-
-<br/><br/>
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
-
-<br/><br/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-
-<br/><br/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-<br/><br/>
-
-### Design
-<img src="https://skillicons.dev/icons?i=figma,blender" />
-
-</div>
-
----
+| Frontend | Backend | Mobile |
+|---------|---------|--------|
+| <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,firebase"/> | <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio"/> |
 
 <br/>
 
-## GitHub
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true"
-  />"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake.svg"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amytraz&label=profile+views&color=8A9BB5&style=flat-square"/>
+| Databases | Tools | Design |
+|-----------|------|--------|
+| <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/> | <img src="https://skillicons.dev/icons?i=figma,blender"/> |
 
 </div>
