@@ -61,3 +61,18 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/> | <img src="https://skillicons.dev/icons?i=figma,blender"/> |
 
 </div>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake.svg"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amytraz&label=profile+views&color=8A9BB5&style=flat-square"/>
+
+</div>
