@@ -1,8 +1,5 @@
 <div align="center">
-
-<h1 style="font-size:42px; letter-spacing:1px;">
-<span style="color:#C9B99A;">Amyt Raz</span>
-</h1>
+<img src="./assets/name.svg" alt="Amyt Raz" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=300&size=16&duration=4000&pause=800&color=8A9BB5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+Computer+Engineering+Student;Turning+complex+ideas+into+elegant+digital+experiences" alt="Subtitle" />
 
