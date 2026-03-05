@@ -1,10 +1,8 @@
 <div align="center">
 
-<br/>
-
-<picture>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=52&duration=99999&pause=99999&color=C9B99A&center=true&vCenter=true&width=700&lines=✦+AMYT+RAZ+✦" alt="Amyt Raz" />
-</picture>
+<h1 style="font-size:42px; letter-spacing:1px;">
+<span style="color:#C9B99A;">Amyt Raz</span>
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=300&size=16&duration=4000&pause=800&color=8A9BB5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+Computer+Engineering+Student;Turning+complex+ideas+into+elegant+digital+experiences" alt="Subtitle" />
 
@@ -16,15 +14,13 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-D4857A?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/amytraz)
 
-<br/>
-
 </div>
 
 ---
 
 <br/>
 
-I'm a **final-year Computer Engineering student** focused on building technology that balances **performance, design, and usability**.
+I’m a **final-year Computer Engineering student** focused on building technology that balances **performance, design, and usability**.
 
 I enjoy turning complex ideas into **clean, scalable digital products** — from elegant interfaces to reliable backend systems.
 
@@ -32,94 +28,84 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 
 <div align="center">
 
-| 🎨 &nbsp;Thoughtful UX | 🏗️ &nbsp;Maintainable Architecture | ⚡ &nbsp;Performance Engineering | 🌍 &nbsp;Real-World Impact |
-|:---:|:---:|:---:|:---:|
-| Interfaces that feel natural and intuitive | Systems built to last and scale | Fast, optimized, production-ready code | Software that solves actual problems |
+### Focus
 
-</div>
+<img src="https://img.shields.io/badge/Scalable%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Thoughtful%20UX-111827?style=for-the-badge"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/Performance%20Optimization-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real%20World%20Problem%20Solving-111827?style=for-the-badge"/>
+
+</div>
 
 ---
 
 <br/>
 
-## &nbsp;Stack
+## Stack
 
 <div align="center">
 
-**Frontend**
-
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap" />
 
 <br/><br/>
 
-**Backend**
-
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,firebase" />
 
 <br/><br/>
 
-**Mobile**
-
+### Mobile
 <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
 
 <br/><br/>
 
-**Databases**
-
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 
 <br/><br/>
 
-**Tools**
-
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 <br/><br/>
 
-**Design**
-
+### Design
 <img src="https://skillicons.dev/icons?i=figma,blender" />
 
 </div>
-
-<br/>
 
 ---
 
 <br/>
 
-## &nbsp;GitHub
+## GitHub
 
 <div align="center">
 
-<br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=C9B99A&fire=D4857A&currStreakLabel=8A9BB5&sideLabels=8A9BB5" />
+<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amytraz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true&line=8A9BB5&point=C9B99A" />
+<img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake.svg"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake-dark.svg" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=amytraz&label=profile+views&color=8A9BB5&style=flat-square" />
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=amytraz&label=profile+views&color=8A9BB5&style=flat-square"/>
 
 </div>
