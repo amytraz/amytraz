@@ -88,9 +88,10 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github&cache_seconds=86400"/>
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true"
+  />"/>
 
 <br/><br/>
 
