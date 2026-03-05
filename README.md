@@ -1,136 +1,88 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C8EFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Amyt+Raz;Full+Stack+Developer;Computer+Engineering+Student;Building+Impactful+Digital+Products"/>
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://amitthakur.com.np">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C8EFF?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/amitrajthakur">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://www.instagram.com/amytraz">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=400&size=42&duration=3500&pause=1200&color=C9B99A&center=true&vCenter=true&width=700&lines=Amyt+Raz" alt="Name" />
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=300&size=16&duration=4000&pause=800&color=8A9BB5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+Computer+Engineering+Student;Turning+complex+ideas+into+elegant+digital+experiences" alt="Subtitle" />
 
-# 🧑‍💻 About Me
+<br/>
 
-Final-year **Computer Engineering student** focused on building technology that creates meaningful real-world impact.
+[![Portfolio](https://img.shields.io/badge/amitthakur.com.np-C9B99A?style=flat-square&logoColor=000)](https://amitthakur.com.np)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A9BB5?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/amitrajthakur)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-D4857A?style=flat-square&logo=instagram&logoColor=fff)](https://www.instagram.com/amytraz)
 
-I enjoy transforming ideas into **high-quality digital experiences** — from designing intuitive interfaces to developing scalable full-stack applications.
-
-My work emphasizes:
-
-- clean system architecture  
-- performance-driven engineering  
-- thoughtful UI/UX design  
-- real-world problem solving  
+</div>
 
 ---
 
-# ⚡ Core Focus
+<br/>
 
-<p align="center">
+```
+  Final-year Computer Engineering student. I build things that are fast, beautiful, and purposeful.
+  Clean architecture. Thoughtful design. Real-world impact.
+```
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Engineering-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable%20Web%20Applications-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Systems-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mobile%20App%20Development-0F172A?style=for-the-badge"/>
-
-</p>
+<br/>
 
 ---
 
-# 🛠 Tech Stack
+### &nbsp;Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,firebase"/>
-</p>
+**Frontend**
+&nbsp;&nbsp;`React` `TypeScript` `Tailwind` `HTML/CSS`
 
-### Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio"/>
-</p>
+**Backend**
+&nbsp;&nbsp;`Node.js` `Express` `Python` `Java` `PHP` `Firebase`
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis"/>
-</p>
+**Mobile**
+&nbsp;&nbsp;`Flutter` `Kotlin` `Android Studio`
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode"/>
-</p>
+</td>
+<td valign="top" width="50%">
 
-### Design
-<p>
-<img src="https://skillicons.dev/icons?i=figma,blender"/>
-</p>
+**Data**
+&nbsp;&nbsp;`MongoDB` `PostgreSQL` `MySQL` `Redis`
 
----
+**Tools**
+&nbsp;&nbsp;`Git` `GitHub` `Postman` `VS Code`
 
-# 📊 GitHub Analytics
+**Design**
+&nbsp;&nbsp;`Figma` `Blender`
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contribution Activity
+### &nbsp;GitHub
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+<br/>
 
----
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true" />
 
-# 🐍 Contribution Snake
+<br/><br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake.svg"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
----
+<br/><br/>
 
-# 🌐 Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true" />
 
-<p align="center">
+<br/><br/>
 
-<a href="https://amitthakur.com.np">
-<img src="https://img.shields.io/badge/Portfolio-6C8EFF?style=for-the-badge"/>
-</a>
+<img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake.svg" />
 
-<a href="https://www.linkedin.com/in/amitrajthakur">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
-</a>
+<br/><br/>
 
-<a href="https://www.instagram.com/amytraz">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=amytraz&label=profile+views&color=8A9BB5&style=flat-square" />
 
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=amytraz&label=Profile%20Views&color=6C8EFF&style=flat"/>
-</p>
+</div>
