@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=400&size=42&duration=3500&pause=1200&color=C9B99A&center=true&vCenter=true&width=700&lines=Amyt+Raz" alt="Name" />
+<h1 style="font-size:42px; letter-spacing:1px;">
+<span style="color:#C9B99A;">Amyt Raz</span>
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=300&size=16&duration=4000&pause=800&color=8A9BB5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%80%94+Computer+Engineering+Student;Turning+complex+ideas+into+elegant+digital+experiences" alt="Subtitle" />
 
@@ -16,54 +18,62 @@
 
 ---
 
-<br/>
+I’m a **final-year Computer Engineering student** focused on building technology that balances **performance, design, and usability**.
 
-```
-  Final-year Computer Engineering student. I build things that are fast, beautiful, and purposeful.
-  Clean architecture. Thoughtful design. Real-world impact.
-```
+I enjoy turning complex ideas into **clean, scalable digital products** — from elegant interfaces to reliable backend systems.
 
-<br/>
+My work centers around:
 
----
-
-### &nbsp;Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-&nbsp;&nbsp;`React` `TypeScript` `Tailwind` `HTML/CSS`
-
-**Backend**
-&nbsp;&nbsp;`Node.js` `Express` `Python` `Java` `PHP` `Firebase`
-
-**Mobile**
-&nbsp;&nbsp;`Flutter` `Kotlin` `Android Studio`
-
-</td>
-<td valign="top" width="50%">
-
-**Data**
-&nbsp;&nbsp;`MongoDB` `PostgreSQL` `MySQL` `Redis`
-
-**Tools**
-&nbsp;&nbsp;`Git` `GitHub` `Postman` `VS Code`
-
-**Design**
-&nbsp;&nbsp;`Figma` `Blender`
-
-</td>
-</tr>
-</table>
+• thoughtful user experience  
+• maintainable architecture  
+• performance-focused engineering  
+• building software that solves real problems  
 
 ---
 
-### &nbsp;GitHub
+<br/>
+
+## Stack
 
 <div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,bootstrap" />
+
+<br/><br/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,firebase" />
+
+<br/><br/>
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+
+<br/><br/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+
+<br/><br/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+<br/><br/>
+
+### Design
+<img src="https://skillicons.dev/icons?i=figma,blender" />
+
+</div>
+
+---
+
 <br/>
+
+## GitHub
+
+<div align="center">
 
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github" />
 &nbsp;&nbsp;
@@ -71,7 +81,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
