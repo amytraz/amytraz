@@ -23,7 +23,7 @@ Tools
 Design
 <p> <img src="https://skillicons.dev/icons?i=figma,blender" /> </p>
 📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amytraz&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/> </p>
 📈 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true"/> </p>
 🐍 Contribution Snake
