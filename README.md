@@ -64,9 +64,7 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
   <img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true"/>
