@@ -58,22 +58,21 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/> | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/> | <img src="https://skillicons.dev/icons?i=figma,blender"/> |
 
 </div>
-
-## 🔥 GitHub 
+## 🔥 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=amytraz&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amytraz&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amytraz&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/amytraz/amytraz/output/github-contribution-grid-snake.svg"/>
 
@@ -82,3 +81,4 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 <img src="https://komarev.com/ghpvc/?username=amytraz&label=profile+views&color=8A9BB5&style=flat-square"/>
 
 </div>
+
