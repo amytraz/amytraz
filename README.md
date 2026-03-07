@@ -59,6 +59,11 @@ I enjoy turning complex ideas into **clean, scalable digital products** — from
 
 </div>
 
+🔥 GitHub 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 <div align="center">
 
